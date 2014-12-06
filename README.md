@@ -1,7 +1,7 @@
 EditorDemo
 ==========
 
-VS-wizard is almost done buf utf-8.
+VS-wizard is almost done but utf-8.
 
 License
 =======
